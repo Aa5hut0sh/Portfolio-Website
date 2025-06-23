@@ -5,7 +5,6 @@ This site showcases my skills, projects, achievements, and learning journey in w
 
 🚀 **Live Site**: [aa5hut0sh.github.io/Portfolio-Website](https://aa5hut0sh.github.io/Portfolio-Website/)
 
-![Portfolio Preview](https://user-images.githubusercontent.com/your-username/your-preview-image.png) <!-- Optional preview image -->
 
 ---
 
